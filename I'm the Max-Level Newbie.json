@@ -1,0 +1,29 @@
+{
+  "title": "I'm the Max-Level Newbie",
+  "description": "A",
+  "artist": "A",
+  "author": "A",
+  "cover": "A",
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "",
+      "last_updated": "1693585024",
+      "groups": {
+        "": [
+          "https://imgur.com/a/iaBpLW2"
+        ]
+      }
+    },
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1693585077",
+      "groups": {
+        "": [
+          "https://imgur.com/a/fhe6nch"
+        ]
+      }
+    }
+  }
+}
